@@ -1,0 +1,10 @@
+body {
+
+}
+
+.bordo {
+    border: 2px solid;
+    width: 30em;
+    height: 9em;
+    padding: 10px;
+}
